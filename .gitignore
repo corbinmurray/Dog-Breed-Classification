@@ -132,3 +132,13 @@ yarn-error.log*
 
 **/*.d.ts
 **/*.eslintrc*
+
+**/bin
+**/include
+**/lib
+**/lib64
+**/share
+**/pyvenv.cfg
+**/*.csv
+**/*.jpg
+**/.vscode
